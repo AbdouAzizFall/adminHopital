@@ -10,7 +10,7 @@ public class db {
     private final String username = "root";
 
     private final String password = "";
-    private final String bd = "mbollimbolli";
+    private final String bd = "gestionRv";
 
     private final String url = ""
             + "jdbc:mysql://"+server+":3306/"+bd;
